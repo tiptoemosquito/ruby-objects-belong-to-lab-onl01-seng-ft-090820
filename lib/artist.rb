@@ -2,4 +2,4 @@ class Artist
   attr_accessor :name
 end
 
-artist.new.name
+Artist.new.name
