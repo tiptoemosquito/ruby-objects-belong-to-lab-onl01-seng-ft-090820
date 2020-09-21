@@ -1,3 +1,3 @@
-def initialize(name)
-  @name = name
+class Artist
+  attr_accessor :artist
 end
