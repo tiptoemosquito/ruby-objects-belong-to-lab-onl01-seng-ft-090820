@@ -1,3 +1,3 @@
-def initialize(title)
-  @title = title
+class Song
+  attr_accessor :name
 end
